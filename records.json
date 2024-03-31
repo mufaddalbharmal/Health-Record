@@ -1,0 +1,98 @@
+[
+    {
+        "name": "M Bharmal",
+        "bpupper": "60",
+        "bplower": "",
+        "sugarfast": "",
+        "sugarafter2": "",
+        "date": "2024-02-05",
+        "weight": "65",
+        "nvalue": "mb",
+        "Datestamp": "2024-03-30",
+        "Timestamp": "01:14:31pm"
+    },
+    {
+        "name": "M Bharmal",
+        "bpupper": "95",
+        "bplower": "110",
+        "sugarfast": "90",
+        "sugarafter2": "100",
+        "date": "2024-03-05",
+        "weight": "80",
+        "nvalue": "mb",
+        "Datestamp": "2024-01-28",
+        "Timestamp": "01:14:31pm"
+    },
+    {
+        "name": "M Bharmal",
+        "bpupper": "99",
+        "bplower": "114",
+        "sugarfast": "94",
+        "sugarafter2": "104",
+        "date": "2024-01-05",
+        "weight": "84",
+        "nvalue": "mb",
+        "Datestamp": "2024-03-28",
+        "Timestamp": "01:14:31pm"
+    },
+    {
+        "name": "M Bharmal",
+        "bpupper": "80",
+        "bplower": "",
+        "sugarfast": "",
+        "sugarafter2": "",
+        "date": "2024-02-13",
+        "weight": "",
+        "nvalue": "mb",
+        "Datestamp": "2024-03-30",
+        "Timestamp": "01:14:41pm"
+    },
+    {
+        "name": "M Bharmal",
+        "bpupper": "90",
+        "bplower": "",
+        "sugarfast": "",
+        "sugarafter2": "",
+        "date": "2024-03-15",
+        "weight": "",
+        "nvalue": "mb",
+        "Datestamp": "2024-03-30",
+        "Timestamp": "01:16:33pm"
+    },
+    {
+        "name": "M Bharmal",
+        "bpupper": "50",
+        "bplower": "",
+        "sugarfast": "",
+        "sugarafter2": "",
+        "date": "2024-03-25",
+        "weight": "",
+        "nvalue": "mb",
+        "Datestamp": "2024-03-30",
+        "Timestamp": "01:17:24pm"
+    },
+    {
+        "name": "F Bharmal",
+        "bpupper": "60",
+        "bplower": "100",
+        "sugarfast": "",
+        "sugarafter2": "",
+        "date": "2024-03-23",
+        "weight": "",
+        "nvalue": "fb",
+        "Datestamp": "2024-03-30",
+        "Timestamp": "01:17:47pm"
+    },
+    {
+        "name": "F Bharmal",
+        "bpupper": "100",
+        "bplower": "100",
+        "sugarfast": "",
+        "sugarafter2": "",
+        "date": "2024-03-24",
+        "weight": "",
+        "nvalue": "fb",
+        "Datestamp": "2024-03-30",
+        "Timestamp": "01:17:55pm"
+    }
+]

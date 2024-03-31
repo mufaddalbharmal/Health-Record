@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEALTH MONITORING</title>
+    <link rel="stylesheet" href="./stylesheets/style.css">
+    <link rel="icon" href="./images/icon2.ico" type="image/ico">
+</head>
+<body>
+    
+    <div class="upper">
+        <button id="upbtn" type="submit">History</button>
+    </div>
+    <div class="main displayFlex">
+        <div class="mainInside">
+            <div class="form">
+                <div class="formInside form1">
+                    <!-- <div class="formInside1">
+                        <text>Name</text>
+                    </div> -->
+                    <div class="formInside2I">
+                        <div class="dropdown">
+                            <div placeholder="Name" class="inputclass0">Name</div>
+                            <div class="dropdown-content">
+                              <span class="nameSpan" value="mb">M Bharmal</span>
+                              <span class="nameSpan" value="fb">F Bharmal</span>                              
+                            </div>
+                          </div>
+                    </div>
+                </div>
+                <div class="formInside formInside2I form2">
+                    <div class="formInside1">
+                        <text>BP </text>
+                    </div>
+                    <div class="formInside2">
+                        <input placeholder="Systolic (Upper)" type="text" class="inputclass" name="" id="bpupper">
+                        <input placeholder="Systolic (Lower)" type="text" class="inputclass" name="" id="bplower">
+                    </div>
+                </div>
+                <div class="formInside formInside2I form3">
+                    <div class="formInside1">
+                        <text>Sugar</text>
+                    </div>
+                    <div class="formInside2 ">
+                        <input placeholder="Fasting" type="text" class="inputclass" name="" id="sugarfast">
+                        <input placeholder="After 2 hours" type="text" class="inputclass" name="" id="sugarafter2">
+                    </div>
+                </div>
+                <div class="formInside form4">
+                    <div class="formInside1">
+                        <text>Information</text>                        
+                    </div>
+                    <div class="formInside2">
+                        <input type="date" class="inputclass" name="" id="date">
+                        <input placeholder="Weight (in KG)" type="number" class="inputclass" name="" id="weight">
+                    </div>
+                </div>
+                <div class="formInside form5">
+                    <div class="formInside1">
+                        
+                    </div>
+                    <div class="formInside2">
+                        <button class="subbtn" type="submit">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="status">
+            
+        </div>
+    </div>
+    <div id="records" class="records">
+        <div class="historyInside">
+            <span class="cross" id="cross">
+                <div class="line1"></div>
+                <div class="line2"></div>
+            </span>
+            <select class="inputclass0 historySelect">
+                <option class="historyOption"  disabled selected value>Select Name</option>
+                <option class="historyOption">M Bharmal</option>
+                <option class="historyOption">F Bharmal</option>
+            </select>
+            <div class="historyTable">
+                <table>                    
+                    
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script src="./scripts/script.js"></script>
